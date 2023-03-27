@@ -1,0 +1,137 @@
+
+@font-face {
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hind Siliguri'), local('HindSiliguri-Regular'),
+        url('../fonts/HindSiliguri-Regular.woff2') format('woff2'),
+        url('../fonts/HindSiliguri-Regular.woff') format('woff'),
+        url('../fonts/HindSiliguri-Regular.ttf') format('ttf'),
+        url('../fonts/HindSiliguri-Regular.eot') format('eot');
+}
+
+.navigation {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #030D15;
+    text-align: center;
+    align-items: center;
+}
+
+
+.subtitle {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.145em;
+    text-transform: uppercase;
+    color: #C72535;
+    opacity: 0.6;
+}
+
+.main h3 {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 61px;
+    line-height: 73px;
+    color: #247CC0;
+}
+
+.main p {
+    font-weight: 400;
+    color: #030D15;
+    
+}
+
+.description {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #030D15;
+    opacity: 0.6;
+}
+
+.buttonshop {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.price {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #030D15;
+}
+
+.discountprise {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 27px;
+    text-align: center;
+    text-decoration-line: line-through;
+    color: #030D15;
+    opacity: 0.5;
+}
+
+
+
+.producttitle {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 40px;
+    /*text-align: center;*/
+    color: #030D15;
+}
+
+.productdescription {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #030D15;
+    opacity: 0.6;
+}
+
+.productprice {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 27px;
+    text-align: center;
+    color: #030D15;
+}
+
+.productpricespecial {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 27px;
+    text-align: center;
+    text-decoration-line: line-through;
+    color: #030D15;
+    opacity: 0.5;
+}
